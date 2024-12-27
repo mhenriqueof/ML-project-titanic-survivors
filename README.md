@@ -4,11 +4,11 @@ This project uses the [Titanic dataset from Kaggle](https://www.kaggle.com/compe
 
 ## Techniques Applied
 
-- Hyperparameter Tuning
 - Exploratory Data Analysis
 - Data Balancing
 - Creation of New Columns
 - Feature Selection
+- Hyperparameter Tuning
 - Handling Outliers and Missing Values
 - Cross-Validation
 
