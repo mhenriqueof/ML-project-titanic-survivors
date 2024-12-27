@@ -2,12 +2,12 @@
 
 This project uses the [Titanic dataset from Kaggle](https://www.kaggle.com/competitions/titanic). The goal is to apply Machine Learning techniques to predict which passengers would survive the disaster.
 
-## Project Features
+## Techniques Applied
 
 - Hyperparameter Tuning
 - Exploratory Data Analysis
 - Data Balancing
-- New Columns
+- Creation of New Columns
 - Feature Selection
 - Handling Outliers and Missing Values
 - Cross-Validation
