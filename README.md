@@ -16,8 +16,4 @@ This project uses the [Titanic dataset from Kaggle](https://www.kaggle.com/compe
 
 It was for me an excellent opportunity to apply the knowledge acquired throughout the year 2024 in [Alura's courses](https://www.alura.com.br/escola-data-science) and to learn even more during the development process.
 
-Kaggle score: 79.186%
-
-<hr>
-
 Thanks!
